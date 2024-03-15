@@ -32,7 +32,7 @@ def text():
 	pen.setpos(-68, 95)
 	pen.down()
 	pen.color('black')
-	pen.write("        Ceries", font=(
+	pen.write("  wo ai ni   ", font=(
 	"Verdana", 12, "bold"))
 
 # ===================================
